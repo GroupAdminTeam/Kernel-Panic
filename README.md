@@ -1,7 +1,7 @@
-# 🍿Kernel-Panic-SnackDeployer 9000  
+# 🍿Kernel-Panic-Snack-Deployer 9000  
 **Real-Time Kernel Deployment System**
 
-Welcome to the *Kernel-Panic-SnackDeployer 9000*, the analog-based, user-interactive system for real-time corn kernel expansion and flavor distribution.
+Welcome to the *Kernel-Panic-Snack-Deployer 9000*, the analog-based, user-interactive system for real-time corn kernel expansion and flavor distribution.
 
 ---
 
